@@ -9,5 +9,4 @@ CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch \
     --topk 20 --mrg 0.1 \
     --dataset Cars --model deit_small_distilled_patch16_224 \
     --IPC 2 --loss seeproxy --emb 128 --use_lastnorm True \
-    --optimizer adamw --use-schedule True --max-thresh 0.4 --min-thresh 0.0  --lambd 0.2  --type 1 --n-expan 8\
-	--run_name single_gpu 
+    --optimizer adamw --use-schedule True --max-thresh 0.4 --min-thresh 0.0  --lambd 0.2  --type 1 --n-expan 8
