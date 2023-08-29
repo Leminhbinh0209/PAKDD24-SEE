@@ -18,7 +18,7 @@
 | Methods | Arch. | CUB |  |  | Cars |  |  | SOP |  |  | In-Shop |  |  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  |  | R@1 | R@2 | R@4| R@1 | R@2 | R@4 | R@1 | R@10 | R@100 | R@1 | R@10 | R@20 |
-| Backbone architecture: $C N N$ |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Backbone architecture: CNN |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | NSoftmax | R128 | 56.5 | 69.6 | 79.9 | 81.6 | 88.7 | 93.4 | 75.2 | 88.7 | 95.2 | 86.6 | 96.8 | 97.8 |****
 | MIC  | R128 | 66.1 | 76.8 | 85.6 | 82.6 | 89.1 | 93.2 | 77.2 | 89.4 | 94.6 | 88.2 | 97.0 | - |
 | XBM  | R128 | - | - | - | - | - | - | 80.6 | 91.6 | 96.2 | 91.3 | 97.8 | 98.4 |
@@ -59,7 +59,7 @@ See [environment.yml](environment.yml) for installation details.
    - [CUB-200-2011](http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz)
    - Cars-196 ([Img](http://imagenet.stanford.edu/internal/car196/car_ims.tgz), [Annotation](http://imagenet.stanford.edu/internal/car196/cars_annos.mat))
    - [Stanford Online Products](https://cvgl.stanford.edu/projects/lifted_struct/)
-   - [In-shop Clothes Retrieval]((http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html))
+   - [In-shop Clothes Retrieval](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)
 
 2. Extract the tgz or zip file into `./data/`.
 
