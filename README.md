@@ -1,7 +1,7 @@
-# SEE: Spherical Embedding Expansion for Improving Deep Metric Learning (ID: 1140)
+# SEE: Spherical Embedding Expansion for Improving Deep Metric Learning (ID: 314)
 
 <div align="left">
-  <h4> Anonymous submission
+  <h4> Anonymous submission of "Pacific-Asia Conference on Knowledge Discovery and Data Mining"
 </div>
 
 <br>
