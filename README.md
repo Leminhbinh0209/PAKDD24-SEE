@@ -76,3 +76,15 @@ Our source code is modified and adapted on these great repositories:
 - [Hyperbolic Vision Transformers: Combining Improvements in Metric Learning](https://github.com/htdt/hyp_metric)
 - [Proxy Anchor Loss for Deep Metric Learning](https://github.com/tjddus9597/Proxy-Anchor-CVPR2020)
 
+#
+*Star (⭐) if you find it useful, and consider to cite our work*  
+
+## Citation
+```
+@inproceedings{le2024see,
+  title={SEE: Spherical Embedding Expansion for Improving Deep Metric Learning},
+  author={Le, Binh M. and Woo, Simon },
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  year={2024}
+}
+```
