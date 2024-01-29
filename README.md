@@ -1,7 +1,7 @@
-# SEE: Spherical Embedding Expansion for Improving Deep Metric Learning (ID: 314)
+# SEE: Spherical Embedding Expansion for Improving Deep Metric Learning
 
 <div align="left">
-  <h4> Anonymous submission of "Pacific-Asia Conference on Knowledge Discovery and Data Mining"
+  <h4> The 28th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), Taiwan, 2024.
 </div>
 
 <br>
